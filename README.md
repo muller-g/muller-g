@@ -37,3 +37,7 @@ https://gabrielmuller-ashy.vercel.app/
 
 ### ORM
 ![Prisma](https://img.shields.io/badge/prisma-323330?style=for-the-badge&logo=prisma)
+
+
+### Outras ferramentas
+![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker) ![Figma](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma) ![Postman](https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=postman) ![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux) ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest) ![Git](https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git)
