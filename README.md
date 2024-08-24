@@ -27,7 +27,7 @@ https://gabrielmuller-ashy.vercel.app/
 ![Next.js](https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=next.js)
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-323330?style=for-the-badge&logo=styled-components)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-323330?style=for-the-badge&logo=tailwind-css)
-
+![VueJS](https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-323330?style=for-the-badge&logo=postgresql&logoColor=blue)
