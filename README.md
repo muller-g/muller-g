@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2f23cb03-0325-4a1f-ab15-8e59eddf759f)## Olá visitante 👋
+## Olá visitante 👋
 
 Me chamo Gabriel Müller, desenvolvedor fullstack desde 2019 atuando no mercado.
 
