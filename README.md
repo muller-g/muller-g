@@ -1,9 +1,9 @@
-## Olá visitante 👋
+![image](https://github.com/user-attachments/assets/2f23cb03-0325-4a1f-ab15-8e59eddf759f)## Olá visitante 👋
 
 Me chamo Gabriel Müller, desenvolvedor fullstack desde 2019 atuando no mercado.
 
 ### Meus links
-https://gabrielmuller-ashy.vercel.app/
+https://www.gabrielmullerdev.com.br/
 
 ### Linguagens ⚡
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muller-g&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
