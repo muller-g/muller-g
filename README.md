@@ -1,43 +1,115 @@
-## Olá visitante 👋
+<div align="center">
 
-Me chamo Gabriel Müller, desenvolvedor fullstack desde 2019 atuando no mercado.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Gabriel+M%C3%BCller;Fullstack+Developer;AI+%26+Automation+Specialist;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
-### Meus links
-https://www.gabrielmullerdev.com.br/
+<br/>
 
-### Linguagens ⚡
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muller-g&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-gabrielmullerdev.com.br-6366F1?style=for-the-badge&logoColor=white)](https://www.gabrielmullerdev.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muller--g-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muller-g/)
+[![Location](https://img.shields.io/badge/📍%20Santa%20Catarina-Brasil-22C55E?style=for-the-badge)](https://www.gabrielmullerdev.com.br/)
+![Profile Views](https://komarev.com/ghpvc/?username=muller-g&style=for-the-badge&color=6366F1&label=VISITAS)
 
-## Minhas habilidades 🚀
+</div>
 
-### Backend
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Javascript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-323330?style=for-the-badge&logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-323330?style=for-the-badge&logo=laravel)
-![NestJS](https://img.shields.io/badge/NestJS-323330?style=for-the-badge&logo=nestjs)
-![Socket.io](https://img.shields.io/badge/SOCKET-IO-323330?style=for-the-badge&logo=socket.io)
+---
 
-### Frontend
-![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![ReactJS](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=next.js)
-![Styled Components](https://img.shields.io/badge/Styled%20Components-323330?style=for-the-badge&logo=styled-components)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-323330?style=for-the-badge&logo=tailwind-css)
-![VueJS](https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+## 👨‍💻 Sobre mim
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-323330?style=for-the-badge&logo=postgresql&logoColor=blue)
-![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb)
+Desenvolvedor **Fullstack** & Especialista em **IA** com mais de 5 anos no mercado, construindo desde APIs de alta escala até agentes inteligentes com LLMs. Atualmente na **Inbraep**, entregando soluções que automatizam processos e geram resultado real.
 
+```ts
+const gabriel = {
+  stack:       ["Node.js", "NestJS", "Laravel", "React", "Next.js", "Vue.js"],
+  ai:          ["GPT-4", "Claude", "Prompt Engineering", "LLM Agents"],
+  databases:   ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+  devops:      ["Docker", "Linux", "Nginx", "CI/CD"],
+  focus:       "APIs escaláveis · Agentes de IA · Automações",
+  projects:    "30+ entregues",
+  available:   true,   // freelance & CLT
+  responseTime: "< 2h",
+};
+```
 
-### ORM
-![Prisma](https://img.shields.io/badge/prisma-323330?style=for-the-badge&logo=prisma)
+---
 
+## 🛠️ Tech Stack
 
-### Outras ferramentas
-![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker) ![Figma](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma) ![Postman](https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=postman) ![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux) ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest) ![Git](https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git)
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
+
+**Bancos de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**DevOps & Ferramentas**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+**IA & Integrações**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D4A017?style=flat-square&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=muller-g&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muller-g&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muller-g&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+---
+
+## 🏆 Projetos em Destaque
+
+| Projeto | Impacto | Stack |
+|:---|:---|:---|
+| 🤖 **AI Chatbot** | Reduziu **70%** do volume de suporte ao cliente | NestJS · GPT-4 · WhatsApp API |
+| 🛒 **E-commerce Completo** | Plataforma com checkout e assinaturas recorrentes | Next.js · Laravel · Stripe · MP |
+| 📋 **CRM + Automação WhatsApp** | Pipeline de vendas 100% automatizado | Node.js · Socket.io · MongoDB |
+| 📄 **OCR + LLM** | Extração e interpretação de documentos com IA | Node.js · Claude · PostgreSQL |
+| 🌐 **API Gateway Multi-tenant** | Roteamento seguro para múltiplos clientes | NestJS · Docker · Redis |
+
+---
+
+<div align="center">
+
+### Vamos construir algo incrível juntos? 🚀
+
+[![Ver Portfolio](https://img.shields.io/badge/Ver%20Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gabrielmullerdev.com.br/)
+[![Conectar no LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muller-g/)
+
+*Disponível para freelance · CLT · Projetos remotos*
+
+</div>
