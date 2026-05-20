@@ -78,28 +78,11 @@ const gabriel = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=muller-g&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muller-g&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muller-g&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
----
-
 ## 🏆 Projetos em Destaque
 
 | Projeto | Impacto | Stack |
 |:---|:---|:---|
-| 🤖 **AI Chatbot** | Reduziu **70%** do volume de suporte ao cliente | NestJS · GPT-4 · WhatsApp API |
-| 🛒 **E-commerce Completo** | Plataforma com checkout e assinaturas recorrentes | Next.js · Laravel · Stripe · MP |
-| 📋 **CRM + Automação WhatsApp** | Pipeline de vendas 100% automatizado | Node.js · Socket.io · MongoDB |
 | 📄 **OCR + LLM** | Extração e interpretação de documentos com IA | Node.js · Claude · PostgreSQL |
-| 🌐 **API Gateway Multi-tenant** | Roteamento seguro para múltiplos clientes | NestJS · Docker · Redis |
 
 ---
 
