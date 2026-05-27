@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor **Fullstack** & Especialista em **IA** com mais de 5 anos no mercado, construindo desde APIs de alta escala até agentes inteligentes com LLMs. Atualmente na **Inbraep**, entregando soluções que automatizam processos e geram resultado real.
+**Software Engineer** & Especialista em **IA** com mais de 5 anos no mercado, construindo desde APIs de alta escala até agentes inteligentes com LLMs. Atualmente na **Inbraep**, entregando soluções que automatizam processos e geram resultado real.
 
 ```ts
 const gabriel = {
