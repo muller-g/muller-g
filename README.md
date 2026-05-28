@@ -78,19 +78,11 @@ const gabriel = {
 
 ---
 
-## 🏆 Projetos em Destaque
-
-| Projeto | Impacto | Stack |
-|:---|:---|:---|
-| 📄 **OCR + LLM** | Extração e interpretação de documentos com IA | Node.js · Claude · PostgreSQL |
-
----
-
 <div align="center">
 
 ### Vamos construir algo incrível juntos? 🚀
 
-[![Ver Portfolio](https://img.shields.io/badge/Ver%20Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gabrielmullerdev.com.br/)
+[![Ver Portfolio](https://img.shields.io/badge/Ver%20Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)]([https://www.gabrielmullerdev.com.br/](https://tapfolio.gabrielmullerdev.com.br/mullerg))
 [![Conectar no LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muller-g/)
 
 *Disponível para freelance · CLT · Projetos remotos*
